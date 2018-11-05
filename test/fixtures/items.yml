@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: 
+  price: 1
+  next_available_date: 2018-11-06
+  street: MyString
+  suburb: MyString
+  postcode: MyString
+
+two:
+  name: MyString
+  description: 
+  price: 1
+  next_available_date: 2018-11-06
+  street: MyString
+  suburb: MyString
+  postcode: MyString
